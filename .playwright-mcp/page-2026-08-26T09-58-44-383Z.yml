@@ -1,0 +1,48 @@
+- generic [ref=f4e90]:
+  - generic [ref=f4e94]:
+    - list [ref=f4e96]:
+      - listitem [ref=f4e97]:
+        - link "Laravel Starter Kit" [ref=f4e98] [cursor=pointer]:
+          - /url: /dashboard
+    - generic [ref=f4e105]:
+      - generic [ref=f4e106]: Platform
+      - list [ref=f4e107]:
+        - listitem [ref=f4e108]:
+          - link "Dashboard" [ref=f4e109] [cursor=pointer]:
+            - /url: /dashboard
+        - listitem [ref=f4e116]:
+          - link "Projects" [ref=f4e117] [cursor=pointer]:
+            - /url: /projects
+        - listitem [ref=f4e122]:
+          - link "Billing" [ref=f4e123] [cursor=pointer]:
+            - /url: /billing
+    - generic [ref=f4e127]:
+      - list [ref=f4e130]:
+        - listitem [ref=f4e131]:
+          - link "Repository" [ref=f4e132] [cursor=pointer]:
+            - /url: https://github.com/laravel/react-starter-kit
+        - listitem [ref=f4e136]:
+          - link "Documentation" [ref=f4e137] [cursor=pointer]:
+            - /url: https://laravel.com/docs/starter-kits
+      - list [ref=f4e141]:
+        - listitem [ref=f4e142]:
+          - button "TU Test User" [ref=f4e143]:
+            - generic [ref=f4e144]: TU
+            - generic [ref=f4e146]: Test User
+  - main [ref=f4e151]:
+    - generic [ref=f4e153]:
+      - button "Toggle Sidebar" [ref=f4e154]
+      - navigation "breadcrumb" [ref=f4e156]:
+        - list [ref=f4e157]:
+          - listitem [ref=f4e158]:
+            - link "Projects" [ref=f4e159] [cursor=pointer]:
+              - /url: /projects
+          - listitem [ref=f4e160]
+          - listitem [ref=f4e163]:
+            - link "Alex Rivera Photography" [disabled] [ref=f4e164]
+    - generic [ref=f4e165]:
+      - generic [ref=f4e166]:
+        - heading "Alex Rivera Photography" [level=1] [ref=f4e167]
+        - generic [ref=f4e168]: 9 credits
+      - paragraph [ref=f4e169]: A modern portfolio site for a freelance photographer named Alex Rivera, with a hero gallery, services section, and contact form
+      - button "Open editor & preview" [ref=f4e171]

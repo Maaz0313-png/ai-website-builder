@@ -1,0 +1,40 @@
+- generic [active] [ref=f11e1]:
+  - navigation [ref=f11e2]:
+    - link "Alex Rivera Photography" [ref=f11e3] [cursor=pointer]:
+      - /url: "#"
+    - link "Home" [ref=f11e4] [cursor=pointer]:
+      - /url: /preview/Alex+Rivera+Photography/home.html
+    - link "Services" [ref=f11e5] [cursor=pointer]:
+      - /url: /preview/Alex+Rivera+Photography/services.html
+    - link "About" [ref=f11e6] [cursor=pointer]:
+      - /url: /preview/Alex+Rivera+Photography/about.html
+    - link "Contact" [ref=f11e7] [cursor=pointer]:
+      - /url: /preview/Alex+Rivera+Photography/contact.html
+  - generic [ref=f11e8]:
+    - heading "Capturing Light, Telling Stories" [level=1] [ref=f11e9]
+    - paragraph [ref=f11e10]: Alex Rivera is a freelance photographer based in Portland, Oregon, specializing in editorial, portrait, and landscape photography. With a decade behind the lens, every frame is an exercise in patience, presence, and craft.
+    - link "Get Started" [ref=f11e11] [cursor=pointer]:
+      - /url: "#get-started"
+  - generic [ref=f11e12]:
+    - heading "Selected Work" [level=2] [ref=f11e13]
+    - paragraph [ref=f11e14]: A curated cross-section of recent commissions and personal projects spanning portraits, landscapes, and editorial assignments.
+    - generic [ref=f11e15]:
+      - generic [ref=f11e16]:
+        - heading "Editorial — Kinfolk Magazine" [level=3] [ref=f11e17]
+        - paragraph [ref=f11e18]: Six-page feature on independent bookbinders in the Pacific Northwest, shot on medium format film.
+      - generic [ref=f11e19]:
+        - heading "Portrait — The Maker Series" [level=3] [ref=f11e20]
+        - paragraph [ref=f11e21]: Intimate environmental portraits of craftspeople in their studios, natural light only.
+      - generic [ref=f11e22]:
+        - heading "Landscape — Coastal Quiet" [level=3] [ref=f11e23]
+        - paragraph [ref=f11e24]: Long-exposure seascapes tracing the changing light along the Oregon coast over twelve months.
+      - generic [ref=f11e25]:
+        - heading "Commercial — Spruce Coffee Roasters" [level=3] [ref=f11e26]
+        - paragraph [ref=f11e27]: Brand campaign capturing the texture and ritual of small-batch coffee production.
+      - generic [ref=f11e28]:
+        - heading "Wedding — Mira & James" [level=3] [ref=f11e29]
+        - paragraph [ref=f11e30]: Documentary-style coverage of a late-summer ceremony in the Columbia River Gorge.
+      - generic [ref=f11e31]:
+        - heading "Travel — Kyoto in Autumn" [level=3] [ref=f11e32]
+        - paragraph [ref=f11e33]: Personal project exploring the interplay of temple architecture and seasonal foliage.
+  - contentinfo [ref=f11e34]: © Alex Rivera Photography — All rights reserved.

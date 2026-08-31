@@ -1,0 +1,231 @@
+- generic [ref=f16e3]:
+  - generic [ref=f16e7]:
+    - list [ref=f16e9]:
+      - listitem [ref=f16e10]:
+        - link "Laravel Starter Kit" [ref=f16e11] [cursor=pointer]:
+          - /url: /dashboard
+    - generic [ref=f16e18]:
+      - generic [ref=f16e19]: Platform
+      - list [ref=f16e20]:
+        - listitem [ref=f16e21]:
+          - link "Dashboard" [ref=f16e22] [cursor=pointer]:
+            - /url: /dashboard
+        - listitem [ref=f16e29]:
+          - link "Projects" [ref=f16e30] [cursor=pointer]:
+            - /url: /projects
+        - listitem [ref=f16e35]:
+          - link "Billing" [ref=f16e36] [cursor=pointer]:
+            - /url: /billing
+    - generic [ref=f16e40]:
+      - list [ref=f16e43]:
+        - listitem [ref=f16e44]:
+          - link "Repository" [ref=f16e45] [cursor=pointer]:
+            - /url: https://github.com/laravel/react-starter-kit
+        - listitem [ref=f16e49]:
+          - link "Documentation" [ref=f16e50] [cursor=pointer]:
+            - /url: https://laravel.com/docs/starter-kits
+      - list [ref=f16e54]:
+        - listitem [ref=f16e55]:
+          - button "TU Test User" [ref=f16e56]:
+            - generic [ref=f16e57]: TU
+            - generic [ref=f16e59]: Test User
+  - main [ref=f16e64]:
+    - generic [ref=f16e66]:
+      - button "Toggle Sidebar" [ref=f16e67]
+      - navigation "breadcrumb" [ref=f16e69]:
+        - list [ref=f16e70]:
+          - listitem [ref=f16e71]:
+            - link "Projects" [ref=f16e72] [cursor=pointer]:
+              - /url: /projects
+          - listitem [ref=f16e73]
+          - listitem [ref=f16e76]:
+            - link "RILT Stack Dev Portfolio" [ref=f16e77] [cursor=pointer]:
+              - /url: /projects/3
+          - listitem [ref=f16e78]
+          - listitem [ref=f16e81]:
+            - link "Editor" [disabled] [ref=f16e82]
+    - generic [ref=f16e83]:
+      - generic [ref=f16e84]:
+        - heading "RILT Stack Dev Portfolio" [level=1] [ref=f16e85]
+        - generic [ref=f16e86]:
+          - button "Visual" [ref=f16e87]
+          - button "Code" [ref=f16e88]
+          - button "Open preview" [ref=f16e89]
+      - generic [ref=f16e90]:
+        - generic [ref=f16e92]:
+          - generic [ref=f16e93]:
+            - generic [ref=f16e94]: Site name
+            - textbox [ref=f16e95]: RILT Stack Dev Portfolio
+          - generic [ref=f16e96]:
+            - generic [ref=f16e97]:
+              - text: Primary
+              - textbox "Primary" [ref=f16e98]: "#b91c1c"
+            - generic [ref=f16e99]:
+              - text: Accent
+              - textbox "Accent" [ref=f16e100]: "#f59e0b"
+            - generic [ref=f16e101]:
+              - text: Font
+              - combobox "Font" [ref=f16e102]:
+                - option "Sans"
+                - option "Serif"
+                - option "Mono" [selected]
+          - generic [ref=f16e103]:
+            - generic [ref=f16e104]:
+              - textbox [ref=f16e105]: Home
+              - generic [ref=f16e106]: /home
+            - generic [ref=f16e107]:
+              - generic [ref=f16e108]: hero
+              - textbox "Heading" [ref=f16e110]: Full-Stack Craftsmanship with RILT
+              - textbox "Body text" [ref=f16e111]: I'm a developer building fast, maintainable web applications with Ruby on Rails APIs, React frontends, Linux infrastructure, and end-to-end TypeScript. I care about clean architecture, sharp performance, and tools that stay out of your way.
+            - generic [ref=f16e112]:
+              - generic [ref=f16e113]: about
+              - textbox "Heading" [ref=f16e115]: What RILT Means to Me
+              - textbox "Body text" [ref=f16e116]: "RILT is the stack I've spent the last five years sharpening: Ruby on Rails for rapid backend development, React for interactive UIs, Linux for the deployment and operations layer, and TypeScript for type safety across the whole system. It's pragmatic, battle-tested, and lets me ship reliable software without ceremony."
+            - generic [ref=f16e117]:
+              - generic [ref=f16e118]: features
+              - textbox "Heading" [ref=f16e120]: Where I Add Value
+              - textbox "Body text" [ref=f16e121]
+              - generic [ref=f16e122]:
+                - textbox "Item title" [ref=f16e123]: Rails API Design
+                - textbox "Item body" [ref=f16e124]: Designing RESTful and GraphQL APIs with Active Record, proper serialization, and background job pipelines that scale gracefully under load.
+              - generic [ref=f16e125]:
+                - textbox "Item title" [ref=f16e126]: React Frontend Engineering
+                - textbox "Item body" [ref=f16e127]: Component-driven interfaces with hooks, server state management, accessibility, and thoughtful state machines for complex flows.
+              - generic [ref=f16e128]:
+                - textbox "Item title" [ref=f16e129]: Linux & DevOps
+                - textbox "Item body" [ref=f16e130]: Provisioning servers with Ansible, hardening NGINX, tuning PostgreSQL, and keeping production calm with Prometheus, Grafana, and good runbooks.
+              - generic [ref=f16e131]:
+                - textbox "Item title" [ref=f16e132]: End-to-End TypeScript
+                - textbox "Item body" [ref=f16e133]: Sharing types between Rails and React using Sorbet and generated declarations, catching bugs before they leave the editor.
+            - generic [ref=f16e134]:
+              - generic [ref=f16e135]: cta
+              - textbox "Heading" [ref=f16e137]: Let's Build Something Reliable
+              - textbox "Body text" [ref=f16e138]: I'm currently open to contract and full-time roles involving Ruby, React, or modern TypeScript backends. If you need a senior engineer who can own a system from database to deploy button, let's talk.
+          - generic [ref=f16e139]:
+            - generic [ref=f16e140]:
+              - textbox [ref=f16e141]: Projects
+              - generic [ref=f16e142]: /projects
+            - generic [ref=f16e143]:
+              - generic [ref=f16e144]: hero
+              - textbox "Heading" [ref=f16e146]: Selected Work
+              - textbox "Body text" [ref=f16e147]: A handful of projects that show how I apply the RILT stack in production, side projects, and open source contributions.
+            - generic [ref=f16e148]:
+              - generic [ref=f16e149]: gallery
+              - textbox "Heading" [ref=f16e151]: Recent Projects
+              - textbox "Body text" [ref=f16e152]
+              - generic [ref=f16e153]:
+                - textbox "Item title" [ref=f16e154]: Helmsman
+                - textbox "Item body" [ref=f16e155]: An open-source deployment dashboard for Rails apps. Sinatra API, React frontend, packaged as a static binary deployed on Alpine Linux. Handles over 1,200 deployments per day across community installations.
+              - generic [ref=f16e156]:
+                - textbox "Item title" [ref=f16e157]: Ledgerly
+                - textbox "Item body" [ref=f16e158]: Double-entry accounting for freelancers. Rails 7 monolith with Hotwire and selective React islands. Background reconciliation jobs processed 8 million transactions in the first six months.
+              - generic [ref=f16e159]:
+                - textbox "Item title" [ref=f16e160]: Pulseboard
+                - textbox "Item body" [ref=f16e161]: Real-time observability for small Rails services. Linux eBPF probes feed a Rails API; React renders live flame graphs and per-request breakdowns with sub-second freshness.
+              - generic [ref=f16e162]:
+                - textbox "Item title" [ref=f16e163]: Fmtmail
+                - textbox "Item body" [ref=f16e164]: Transactional email routing and templating. TypeScript SDK with shared types generated from a Rails schema, used by customers in Ruby, Node, and Go environments.
+          - generic [ref=f16e165]:
+            - generic [ref=f16e166]:
+              - textbox [ref=f16e167]: About
+              - generic [ref=f16e168]: /about
+            - generic [ref=f16e169]:
+              - generic [ref=f16e170]: about
+              - textbox "Heading" [ref=f16e172]: Background
+              - textbox "Body text" [ref=f16e173]: I started writing Ruby in 2016, fell in love with Rails the same year, and gradually added the rest of the stack as my projects demanded it. I've shipped internal tools at two startups, contributed to a handful of open source gems, and maintain a small homelab that doubles as my testing ground.
+            - generic [ref=f16e174]:
+              - generic [ref=f16e175]: features
+              - textbox "Heading" [ref=f16e177]: How I Work
+              - textbox "Body text" [ref=f16e178]
+              - generic [ref=f16e179]:
+                - textbox "Item title" [ref=f16e180]: Test-First, Always
+                - textbox "Item body" [ref=f16e181]: RSpec and Jest with high coverage on critical paths. I treat tests as the first user of my code and the cheapest documentation I can write.
+              - generic [ref=f16e182]:
+                - textbox "Item title" [ref=f16e183]: Calm Production
+                - textbox "Item body" [ref=f16e184]: SLOs over heroics. I instrument before I optimize and prefer reversible changes shipped behind feature flags.
+              - generic [ref=f16e185]:
+                - textbox "Item title" [ref=f16e186]: Plain Communication
+                - textbox "Item body" [ref=f16e187]: Short docs, clear PR descriptions, and asynchronous updates that respect your timezone. I document decisions, not just code.
+            - generic [ref=f16e188]:
+              - generic [ref=f16e189]: testimonials
+              - textbox "Heading" [ref=f16e191]: What Collaborators Say
+              - textbox "Body text" [ref=f16e192]
+              - generic [ref=f16e193]:
+                - textbox "Item title" [ref=f16e194]: Engineering Lead, Logistics Startup
+                - textbox "Item body" [ref=f16e195]: He rewrote our deployment pipeline over a long weekend and we haven't had a rollback since. Calm, thorough, and somehow always available when something breaks.
+              - generic [ref=f16e196]:
+                - textbox "Item title" [ref=f16e197]: Product Manager, Fintech Team
+                - textbox "Item body" [ref=f16e198]: "Rare combination: writes beautiful Rails code and can explain a webhook flow to a non-engineer without making anyone feel lost."
+          - generic [ref=f16e199]:
+            - generic [ref=f16e200]:
+              - textbox [ref=f16e201]: Writing
+              - generic [ref=f16e202]: /writing
+            - generic [ref=f16e203]:
+              - generic [ref=f16e204]: features
+              - textbox "Heading" [ref=f16e206]: Recent Posts
+              - textbox "Body text" [ref=f16e207]
+              - generic [ref=f16e208]:
+                - textbox "Item title" [ref=f16e209]: Serving React from Rails Without Tears
+                - textbox "Item body" [ref=f16e210]: A practical guide to component-scoped React islands inside a Rails app, including SSR pitfalls, asset pipelines, and a sane development loop.
+              - generic [ref=f16e211]:
+                - textbox "Item title" [ref=f16e212]: Hardening a Single Ubuntu Server for Production Rails
+                - textbox "Item body" [ref=f16e213]: "Concrete steps I run on every new box: SSH config, UFW rules, unattended upgrades, logrotate, and the minimum Prometheus exporters you actually need."
+              - generic [ref=f16e214]:
+                - textbox "Item title" [ref=f16e215]: Sharing Types Between Rails and TypeScript
+                - textbox "Item body" [ref=f16e216]: Using Sorbet and rbs-to-json-schema to generate canonical types, plus a small CLI that keeps your React app in sync without a full monorepo.
+          - generic [ref=f16e217]:
+            - generic [ref=f16e218]:
+              - textbox [ref=f16e219]: Contact
+              - generic [ref=f16e220]: /contact
+            - generic [ref=f16e221]:
+              - generic [ref=f16e222]: contact
+              - textbox "Heading" [ref=f16e224]: Get in Touch
+              - textbox "Body text" [ref=f16e225]: The fastest way to reach me is email. I respond within one business day, and I'm happy to schedule a 30-minute call once we've exchanged a few messages about scope and fit.
+            - generic [ref=f16e226]:
+              - generic [ref=f16e227]: cta
+              - textbox "Heading" [ref=f16e229]: Currently Booking for Q3
+              - textbox "Body text" [ref=f16e230]: If you have a Rails + React project, a Linux infrastructure migration, or a TypeScript tooling problem, I'd love to hear about it. Send a short description and any deadlines you're working against.
+          - button "Save & Rebuild" [ref=f16e231]
+        - iframe [ref=f16e233]:
+          - generic [ref=f17e1]:
+            - navigation [ref=f17e2]:
+              - link "RILT Stack Dev Portfolio" [ref=f17e3] [cursor=pointer]:
+                - /url: "#"
+              - link "Home" [ref=f17e4] [cursor=pointer]:
+                - /url: /preview/RILT+Stack+Dev+Portfolio/home.html
+              - link "Projects" [ref=f17e5] [cursor=pointer]:
+                - /url: /preview/RILT+Stack+Dev+Portfolio/projects.html
+              - link "About" [ref=f17e6] [cursor=pointer]:
+                - /url: /preview/RILT+Stack+Dev+Portfolio/about.html
+              - link "Writing" [ref=f17e7] [cursor=pointer]:
+                - /url: /preview/RILT+Stack+Dev+Portfolio/writing.html
+              - link "Contact" [ref=f17e8] [cursor=pointer]:
+                - /url: /preview/RILT+Stack+Dev+Portfolio/contact.html
+            - generic [ref=f17e9]:
+              - heading "Full-Stack Craftsmanship with RILT" [level=1] [ref=f17e10]
+              - paragraph [ref=f17e11]: I'm a developer building fast, maintainable web applications with Ruby on Rails APIs, React frontends, Linux infrastructure, and end-to-end TypeScript. I care about clean architecture, sharp performance, and tools that stay out of your way.
+              - link "Get Started" [ref=f17e12] [cursor=pointer]:
+                - /url: "#get-started"
+            - generic [ref=f17e13]:
+              - heading "What RILT Means to Me" [level=2] [ref=f17e14]
+              - paragraph [ref=f17e15]: "RILT is the stack I've spent the last five years sharpening: Ruby on Rails for rapid backend development, React for interactive UIs, Linux for the deployment and operations layer, and TypeScript for type safety across the whole system. It's pragmatic, battle-tested, and lets me ship reliable software without ceremony."
+            - generic [ref=f17e16]:
+              - heading "Where I Add Value" [level=2] [ref=f17e17]
+              - paragraph
+              - generic [ref=f17e18]:
+                - generic [ref=f17e19]:
+                  - heading "Rails API Design" [level=3] [ref=f17e20]
+                  - paragraph [ref=f17e21]: Designing RESTful and GraphQL APIs with Active Record, proper serialization, and background job pipelines that scale gracefully under load.
+                - generic [ref=f17e22]:
+                  - heading "React Frontend Engineering" [level=3] [ref=f17e23]
+                  - paragraph [ref=f17e24]: Component-driven interfaces with hooks, server state management, accessibility, and thoughtful state machines for complex flows.
+                - generic [ref=f17e25]:
+                  - heading "Linux & DevOps" [level=3] [ref=f17e26]
+                  - paragraph [ref=f17e27]: Provisioning servers with Ansible, hardening NGINX, tuning PostgreSQL, and keeping production calm with Prometheus, Grafana, and good runbooks.
+                - generic [ref=f17e28]:
+                  - heading "End-to-End TypeScript" [level=3] [ref=f17e29]
+                  - paragraph [ref=f17e30]: Sharing types between Rails and React using Sorbet and generated declarations, catching bugs before they leave the editor.
+            - generic [ref=f17e31]:
+              - heading "Let's Build Something Reliable" [level=2] [ref=f17e32]
+              - paragraph [ref=f17e33]: I'm currently open to contract and full-time roles involving Ruby, React, or modern TypeScript backends. If you need a senior engineer who can own a system from database to deploy button, let's talk.
+            - contentinfo [ref=f17e34]: © RILT Stack Dev Portfolio — All rights reserved.

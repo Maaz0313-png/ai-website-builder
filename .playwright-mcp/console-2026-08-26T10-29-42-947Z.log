@@ -1,0 +1,82 @@
+[  -59302ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:17803
+[   40842ms] TypeError: Cannot read properties of undefined (reading 'toString')
+    at preview.url (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:119:73)
+    at preview (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:97:16)
+    at onClick (http://[::1]:5173/resources/js/pages/projects/editor.tsx?t=1787739498112:88:105)
+    at processDispatchQueue (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11577:19)
+    at http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11988:11
+    at batchedUpdates$1 (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:2539:42)
+    at dispatchEventForPluginEventSystem (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11683:9)
+    at dispatchEvent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:14608:13)
+    at dispatchDiscreteEvent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:14589:62)
+    at eval (eval at <anonymous> (eval at evaluate (:311:30)), <anonymous>:1:123)
+[     266ms] [ERROR] WebSocket connection to 'ws://[::1]:5173/?token=_CiBoCg5h8c0' failed: Page entered Back-Forward Cache. @ http://127.0.0.1:8000/projects/3/editor:0
+[     266ms] [ERROR] WebSocket connection to 'ws://localhost:8080/app/in13pajbbshqrvadbia5?protocol=7&client=js&version=8.6.0&flash=false' failed: Page entered Back-Forward Cache. @ http://127.0.0.1:8000/projects/3/editor:0
+[   42123ms] TypeError: Cannot read properties of undefined (reading 'toString')
+    at preview.url (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:119:73)
+    at preview (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:97:16)
+    at onClick (http://[::1]:5173/resources/js/pages/projects/editor.tsx?t=1787739498112:88:105)
+    at processDispatchQueue (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11577:19)
+    at http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11988:11
+    at batchedUpdates$1 (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:2539:42)
+    at dispatchEventForPluginEventSystem (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11683:9)
+    at dispatchEvent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:14608:13)
+    at dispatchDiscreteEvent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:14589:62)
+[   45044ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:17803
+[   46860ms] TypeError: Cannot read properties of undefined (reading 'toString')
+    at preview.url (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:119:73)
+    at preview (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:97:16)
+    at onClick (http://[::1]:5173/resources/js/pages/projects/editor.tsx?t=1787739498112:88:105)
+    at processDispatchQueue (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11577:19)
+    at http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11988:11
+    at batchedUpdates$1 (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:2539:42)
+    at dispatchEventForPluginEventSystem (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11683:9)
+    at dispatchEvent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:14608:13)
+    at dispatchDiscreteEvent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:14589:62)
+[   47353ms] TypeError: Cannot read properties of undefined (reading 'toString')
+    at preview.url (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:119:73)
+    at preview (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:97:16)
+    at onClick (http://[::1]:5173/resources/js/pages/projects/editor.tsx?t=1787739498112:88:105)
+    at processDispatchQueue (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11577:19)
+    at http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11988:11
+    at batchedUpdates$1 (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:2539:42)
+    at dispatchEventForPluginEventSystem (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11683:9)
+    at dispatchEvent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:14608:13)
+    at dispatchDiscreteEvent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:14589:62)
+[   47570ms] TypeError: Cannot read properties of undefined (reading 'toString')
+    at preview.url (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:119:73)
+    at preview (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:97:16)
+    at onClick (http://[::1]:5173/resources/js/pages/projects/editor.tsx?t=1787739498112:88:105)
+    at processDispatchQueue (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11577:19)
+    at http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11988:11
+    at batchedUpdates$1 (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:2539:42)
+    at dispatchEventForPluginEventSystem (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11683:9)
+    at dispatchEvent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:14608:13)
+    at dispatchDiscreteEvent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:14589:62)
+[   47764ms] TypeError: Cannot read properties of undefined (reading 'toString')
+    at preview.url (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:119:73)
+    at preview (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:97:16)
+    at onClick (http://[::1]:5173/resources/js/pages/projects/editor.tsx?t=1787739498112:88:105)
+    at processDispatchQueue (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11577:19)
+    at http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11988:11
+    at batchedUpdates$1 (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:2539:42)
+    at dispatchEventForPluginEventSystem (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11683:9)
+    at dispatchEvent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:14608:13)
+    at dispatchDiscreteEvent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:14589:62)
+[  223838ms] TypeError: Cannot read properties of undefined (reading 'toString')
+    at preview.url (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:119:73)
+    at preview (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:97:16)
+    at ProjectEditor (http://[::1]:5173/resources/js/pages/projects/editor.tsx?t=1787740405181:91:21)
+    at react-stack-bottom-frame (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:16192:20)
+    at renderWithHooks (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:4306:24)
+    at updateFunctionComponent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:5972:21)
+    at beginWork (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:7048:20)
+    at runWithFiberInDEV (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:726:18)
+    at performUnitOfWork (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:10831:98)
+    at workLoopSync (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:10692:43)
+[  223829ms] [WARNING] %s
+
+%s
+ An error occurred in the <ProjectEditor> component. Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries. @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:5588
+[  225670ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:17803

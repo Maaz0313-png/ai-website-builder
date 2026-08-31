@@ -1,0 +1,51 @@
+[    6430ms] TypeError: models.map is not a function
+    at Projects (http://[::1]:5173/resources/js/pages/projects/index.tsx?t=1787743600420:133:74)
+    at react-stack-bottom-frame (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:16192:20)
+    at renderWithHooks (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:4306:24)
+    at updateFunctionComponent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:5972:21)
+    at beginWork (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:7048:20)
+    at runWithFiberInDEV (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:726:18)
+    at performUnitOfWork (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:10831:98)
+    at workLoopSync (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:10692:43)
+    at renderRootSync (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:10675:13)
+    at performWorkOnRoot (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:10323:46)
+[    -315ms] [WARNING] %s
+
+%s
+ An error occurred in the <Projects> component. Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries. @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:5588
+[     951ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[    8530ms] TypeError: models.map is not a function
+    at Projects (http://[::1]:5173/resources/js/pages/projects/index.tsx?t=1787743600420:133:74)
+    at react-stack-bottom-frame (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:16192:20)
+    at renderWithHooks (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:4306:24)
+    at updateFunctionComponent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:5972:21)
+    at beginWork (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:7048:20)
+    at runWithFiberInDEV (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:726:18)
+    at performUnitOfWork (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:10831:98)
+    at workLoopSync (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:10692:43)
+    at renderRootSync (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:10675:13)
+    at performWorkOnRoot (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:10323:46)
+[    1852ms] [WARNING] %s
+
+%s
+ An error occurred in the <Projects> component. Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries. @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:5588
+[    3412ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[   11766ms] TypeError: models.map is not a function
+    at Projects (http://[::1]:5173/resources/js/pages/projects/index.tsx?t=1787743600420:133:74)
+    at react-stack-bottom-frame (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:16192:20)
+    at renderWithHooks (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:4306:24)
+    at updateFunctionComponent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:5972:21)
+    at beginWork (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:7048:20)
+    at runWithFiberInDEV (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:726:18)
+    at performUnitOfWork (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:10831:98)
+    at workLoopSync (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:10692:43)
+    at renderRootSync (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:10675:13)
+    at performWorkOnRoot (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:10323:46)
+[    4589ms] [WARNING] %s
+
+%s
+ An error occurred in the <Projects> component. Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries. @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:5588
+[   66353ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803

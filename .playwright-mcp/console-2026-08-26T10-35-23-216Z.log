@@ -1,0 +1,17 @@
+[     899ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:17803
+[    2596ms] TypeError: Cannot read properties of undefined (reading 'toString')
+    at preview.url (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:119:73)
+    at preview (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:97:16)
+    at ProjectEditor (http://[::1]:5173/resources/js/pages/projects/editor.tsx?t=1787740405181:91:21)
+    at react-stack-bottom-frame (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:16192:20)
+    at renderWithHooks (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:4306:24)
+    at updateFunctionComponent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:5972:21)
+    at beginWork (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:7048:20)
+    at runWithFiberInDEV (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:726:18)
+    at performUnitOfWork (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:10831:98)
+    at workLoopSync (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:10692:43)
+[    1544ms] [WARNING] %s
+
+%s
+ An error occurred in the <ProjectEditor> component. Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries. @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:5588

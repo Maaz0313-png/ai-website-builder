@@ -1,0 +1,232 @@
+- generic [ref=f4e172]:
+  - generic [ref=f4e176]:
+    - list [ref=f4e178]:
+      - listitem [ref=f4e179]:
+        - link "Laravel Starter Kit" [ref=f4e180] [cursor=pointer]:
+          - /url: /dashboard
+    - generic [ref=f4e187]:
+      - generic [ref=f4e188]: Platform
+      - list [ref=f4e189]:
+        - listitem [ref=f4e190]:
+          - link "Dashboard" [ref=f4e191] [cursor=pointer]:
+            - /url: /dashboard
+        - listitem [ref=f4e198]:
+          - link "Projects" [ref=f4e199] [cursor=pointer]:
+            - /url: /projects
+        - listitem [ref=f4e204]:
+          - link "Billing" [ref=f4e205] [cursor=pointer]:
+            - /url: /billing
+    - generic [ref=f4e209]:
+      - list [ref=f4e212]:
+        - listitem [ref=f4e213]:
+          - link "Repository" [ref=f4e214] [cursor=pointer]:
+            - /url: https://github.com/laravel/react-starter-kit
+        - listitem [ref=f4e218]:
+          - link "Documentation" [ref=f4e219] [cursor=pointer]:
+            - /url: https://laravel.com/docs/starter-kits
+      - list [ref=f4e223]:
+        - listitem [ref=f4e224]:
+          - button "TU Test User" [ref=f4e225]:
+            - generic [ref=f4e226]: TU
+            - generic [ref=f4e228]: Test User
+  - main [ref=f4e233]:
+    - generic [ref=f4e235]:
+      - button "Toggle Sidebar" [ref=f4e236]
+      - navigation "breadcrumb" [ref=f4e238]:
+        - list [ref=f4e239]:
+          - listitem [ref=f4e240]:
+            - link "Editor" [disabled] [ref=f4e241]
+    - generic [ref=f4e242]:
+      - generic [ref=f4e243]:
+        - heading "Alex Rivera Photography" [level=1] [ref=f4e244]
+        - generic [ref=f4e245]:
+          - button "Visual" [ref=f4e246]
+          - button "Code" [ref=f4e247]
+          - button "Open preview" [ref=f4e248]
+      - generic [ref=f4e249]:
+        - generic [ref=f4e251]:
+          - generic [ref=f4e252]:
+            - generic [ref=f4e253]: Site name
+            - textbox [ref=f4e254]: Alex Rivera Photography
+          - generic [ref=f4e255]:
+            - generic [ref=f4e256]:
+              - text: Primary
+              - textbox "Primary" [ref=f4e257]: "#1a1a1a"
+            - generic [ref=f4e258]:
+              - text: Accent
+              - textbox "Accent" [ref=f4e259]: "#d4a574"
+            - generic [ref=f4e260]:
+              - text: Font
+              - combobox "Font" [ref=f4e261]:
+                - option "Sans" [selected]
+                - option "Serif"
+                - option "Mono"
+          - generic [ref=f4e262]:
+            - generic [ref=f4e263]:
+              - textbox [ref=f4e264]: Home
+              - generic [ref=f4e265]: /home
+            - generic [ref=f4e266]:
+              - generic [ref=f4e267]: hero
+              - textbox "Heading" [ref=f4e269]: Capturing Light, Telling Stories
+              - textbox "Body text" [ref=f4e270]: Alex Rivera is a freelance photographer based in Portland, Oregon, specializing in editorial, portrait, and landscape photography. With a decade behind the lens, every frame is an exercise in patience, presence, and craft.
+              - generic [ref=f4e271]:
+                - textbox "Item title" [ref=f4e272]: Featured Series
+                - textbox "Item body" [ref=f4e273]: Currently exhibiting 'Coastal Quiet' — a year-long study of the Pacific Northwest shoreline at dawn.
+            - generic [ref=f4e274]:
+              - generic [ref=f4e275]: gallery
+              - textbox "Heading" [ref=f4e277]: Selected Work
+              - textbox "Body text" [ref=f4e278]: A curated cross-section of recent commissions and personal projects spanning portraits, landscapes, and editorial assignments.
+              - generic [ref=f4e279]:
+                - textbox "Item title" [ref=f4e280]: Editorial — Kinfolk Magazine
+                - textbox "Item body" [ref=f4e281]: Six-page feature on independent bookbinders in the Pacific Northwest, shot on medium format film.
+              - generic [ref=f4e282]:
+                - textbox "Item title" [ref=f4e283]: Portrait — The Maker Series
+                - textbox "Item body" [ref=f4e284]: Intimate environmental portraits of craftspeople in their studios, natural light only.
+              - generic [ref=f4e285]:
+                - textbox "Item title" [ref=f4e286]: Landscape — Coastal Quiet
+                - textbox "Item body" [ref=f4e287]: Long-exposure seascapes tracing the changing light along the Oregon coast over twelve months.
+              - generic [ref=f4e288]:
+                - textbox "Item title" [ref=f4e289]: Commercial — Spruce Coffee Roasters
+                - textbox "Item body" [ref=f4e290]: Brand campaign capturing the texture and ritual of small-batch coffee production.
+              - generic [ref=f4e291]:
+                - textbox "Item title" [ref=f4e292]: Wedding — Mira & James
+                - textbox "Item body" [ref=f4e293]: Documentary-style coverage of a late-summer ceremony in the Columbia River Gorge.
+              - generic [ref=f4e294]:
+                - textbox "Item title" [ref=f4e295]: Travel — Kyoto in Autumn
+                - textbox "Item body" [ref=f4e296]: Personal project exploring the interplay of temple architecture and seasonal foliage.
+          - generic [ref=f4e297]:
+            - generic [ref=f4e298]:
+              - textbox [ref=f4e299]: Services
+              - generic [ref=f4e300]: /services
+            - generic [ref=f4e301]:
+              - generic [ref=f4e302]: features
+              - textbox "Heading" [ref=f4e304]: What I Offer
+              - textbox "Body text" [ref=f4e305]: From single-session portraits to multi-day commercial shoots, every project begins with a conversation about what you want the images to accomplish.
+              - generic [ref=f4e306]:
+                - textbox "Item title" [ref=f4e307]: Editorial & Commercial
+                - textbox "Item body" [ref=f4e308]: Magazine features, brand campaigns, and product photography delivered with a clean, narrative-driven aesthetic. Day rates include pre-production, shooting, and a fully retouched select set.
+              - generic [ref=f4e309]:
+                - textbox "Item title" [ref=f4e310]: Portraits
+                - textbox "Item body" [ref=f4e311]: Studio or on-location portrait sessions for individuals, families, and creative professionals. Sessions run roughly two hours and include a curated online gallery and print release.
+              - generic [ref=f4e312]:
+                - textbox "Item title" [ref=f4e313]: Weddings & Events
+                - textbox "Item body" [ref=f4e314]: Documentary coverage of weddings, engagements, and milestone events. Full-day packages include a second shooter, sneak peeks within 48 hours, and a final gallery of 400+ edited images.
+              - generic [ref=f4e315]:
+                - textbox "Item title" [ref=f4e316]: Fine Art Prints
+                - textbox "Item body" [ref=f4e317]: Limited-edition archival prints from personal projects, available in sizes up to 40×60 inches. Each print is signed, numbered, and shipped with a certificate of authenticity.
+            - generic [ref=f4e318]:
+              - generic [ref=f4e319]: pricing
+              - textbox "Heading" [ref=f4e321]: Starting Rates
+              - textbox "Body text" [ref=f4e322]: Every project is scoped individually, but these starting points reflect typical engagements. Custom quotes are always available for unique briefs.
+              - generic [ref=f4e323]:
+                - textbox "Item title" [ref=f4e324]: Portrait Session
+                - textbox "Item body" [ref=f4e325]: Starting at $450 — 2-hour session, one location, online gallery with 30+ edited images and print release.
+              - generic [ref=f4e326]:
+                - textbox "Item title" [ref=f4e327]: Editorial Day Rate
+                - textbox "Item body" [ref=f4e328]: Starting at $1,800 — Full-day shoot, pre-production consultation, and 15 retouched selects delivered within two weeks.
+              - generic [ref=f4e329]:
+                - textbox "Item title" [ref=f4e330]: Wedding Coverage
+                - textbox "Item body" [ref=f4e331]: Starting at $3,200 — 8-hour coverage, second photographer, sneak peeks, and 400+ edited images in a private gallery.
+            - generic [ref=f4e332]:
+              - generic [ref=f4e333]: testimonials
+              - textbox "Heading" [ref=f4e335]: What Clients Say
+              - textbox "Body text" [ref=f4e336]: A few words from editors, couples, and brand leads who have trusted me with their stories.
+              - generic [ref=f4e337]:
+                - textbox "Item title" [ref=f4e338]: Daniel Okafor — Photo Editor, Kinfolk
+                - textbox "Item body" [ref=f4e339]: Alex has an uncanny ability to disappear into a scene and come back with images that feel both intimate and intentional. He's our first call for Pacific Northwest features.
+              - generic [ref=f4e340]:
+                - textbox "Item title" [ref=f4e341]: Mira Linden — Bride, 2024
+                - textbox "Item body" [ref=f4e342]: We barely noticed Alex was there, and yet somehow he captured every moment that mattered. The gallery felt like reliving the entire day in vivid detail.
+              - generic [ref=f4e343]:
+                - textbox "Item title" [ref=f4e344]: Hannah Brooks — Brand Lead, Spruce Coffee
+                - textbox "Item body" [ref=f4e345]: The campaign Alex shot for us elevated our entire visual identity. His attention to texture and light made ordinary moments look extraordinary.
+          - generic [ref=f4e346]:
+            - generic [ref=f4e347]:
+              - textbox [ref=f4e348]: About
+              - generic [ref=f4e349]: /about
+            - generic [ref=f4e350]:
+              - generic [ref=f4e351]: about
+              - textbox "Heading" [ref=f4e353]: About Alex
+              - textbox "Body text" [ref=f4e354]: I'm a Portland-based photographer with roots in documentary filmmaking and a lifelong obsession with natural light. My work has appeared in Kinfolk, Cereal, and The Atlantic, and I've exhibited in group shows from Seattle to Tokyo.
+              - generic [ref=f4e355]:
+                - textbox "Item title" [ref=f4e356]: Approach
+                - textbox "Item body" [ref=f4e357]: "I shoot primarily on Fujifilm and Hasselblad systems, favoring available light and minimal gear. The goal is always the same: make images that feel honest, considered, and quietly alive."
+              - generic [ref=f4e358]:
+                - textbox "Item title" [ref=f4e359]: Background
+                - textbox "Item body" [ref=f4e360]: After studying photojournalism at the University of Oregon, I spent four years assisting commercial photographers in New York before going freelance in 2016. Ten years later, I'm still chasing the same feeling that drew me to a camera in the first place.
+            - generic [ref=f4e361]:
+              - generic [ref=f4e362]: gallery
+              - textbox "Heading" [ref=f4e364]: Behind the Lens
+              - textbox "Body text" [ref=f4e365]: A glimpse at the places, people, and quiet moments that shape my practice between assignments.
+              - generic [ref=f4e366]:
+                - textbox "Item title" [ref=f4e367]: On Location
+                - textbox "Item body" [ref=f4e368]: Shot during a foggy morning shoot in the Columbia River Gorge — one of my favorite locations within an hour of Portland.
+              - generic [ref=f4e369]:
+                - textbox "Item title" [ref=f4e370]: Studio Corner
+                - textbox "Item body" [ref=f4e371]: My home studio in Northeast Portland, where editing happens and prints are signed before shipping.
+              - generic [ref=f4e372]:
+                - textbox "Item title" [ref=f4e373]: Travel Days
+                - textbox "Item body" [ref=f4e374]: A rest stop between shoots in Kyoto during the autumn personal project — camera bag, coffee, and a window seat.
+          - generic [ref=f4e375]:
+            - generic [ref=f4e376]:
+              - textbox [ref=f4e377]: Contact
+              - generic [ref=f4e378]: /contact
+            - generic [ref=f4e379]:
+              - generic [ref=f4e380]: contact
+              - textbox "Heading" [ref=f4e382]: Let's Work Together
+              - textbox "Body text" [ref=f4e383]: Tell me about your project — whether it's a brand campaign, a portrait, or a wedding, I'd love to hear what you're envisioning. I respond to all inquiries within 48 hours.
+              - generic [ref=f4e384]:
+                - textbox "Item title" [ref=f4e385]: Email
+                - textbox "Item body" [ref=f4e386]: alex@alexriveraphoto.com
+              - generic [ref=f4e387]:
+                - textbox "Item title" [ref=f4e388]: Studio
+                - textbox "Item body" [ref=f4e389]: Northeast Portland, Oregon — by appointment only
+              - generic [ref=f4e390]:
+                - textbox "Item title" [ref=f4e391]: Instagram
+                - textbox "Item body" [ref=f4e392]: "@alexrivera.photo"
+            - generic [ref=f4e393]:
+              - generic [ref=f4e394]: cta
+              - textbox "Heading" [ref=f4e396]: Ready to Book?
+              - textbox "Body text" [ref=f4e397]: For weddings and commercial projects, I recommend reaching out 3–6 months in advance. Limited dates remain for the current year — let's find the right one together.
+          - button "Save & Rebuild" [ref=f4e398]
+        - iframe [ref=f4e400]:
+          - generic [ref=f5e1]:
+            - navigation [ref=f5e2]:
+              - link "Alex Rivera Photography" [ref=f5e3] [cursor=pointer]:
+                - /url: "#"
+              - link "Home" [ref=f5e4] [cursor=pointer]:
+                - /url: /preview/Alex+Rivera+Photography/home.html
+              - link "Services" [ref=f5e5] [cursor=pointer]:
+                - /url: /preview/Alex+Rivera+Photography/services.html
+              - link "About" [ref=f5e6] [cursor=pointer]:
+                - /url: /preview/Alex+Rivera+Photography/about.html
+              - link "Contact" [ref=f5e7] [cursor=pointer]:
+                - /url: /preview/Alex+Rivera+Photography/contact.html
+            - generic [ref=f5e8]:
+              - heading "Capturing Light, Telling Stories" [level=1] [ref=f5e9]
+              - paragraph [ref=f5e10]: Alex Rivera is a freelance photographer based in Portland, Oregon, specializing in editorial, portrait, and landscape photography. With a decade behind the lens, every frame is an exercise in patience, presence, and craft.
+              - link "Get Started" [ref=f5e11] [cursor=pointer]:
+                - /url: "#get-started"
+            - generic [ref=f5e12]:
+              - heading "Selected Work" [level=2] [ref=f5e13]
+              - paragraph [ref=f5e14]: A curated cross-section of recent commissions and personal projects spanning portraits, landscapes, and editorial assignments.
+              - generic [ref=f5e15]:
+                - generic [ref=f5e16]:
+                  - heading "Editorial — Kinfolk Magazine" [level=3] [ref=f5e17]
+                  - paragraph [ref=f5e18]: Six-page feature on independent bookbinders in the Pacific Northwest, shot on medium format film.
+                - generic [ref=f5e19]:
+                  - heading "Portrait — The Maker Series" [level=3] [ref=f5e20]
+                  - paragraph [ref=f5e21]: Intimate environmental portraits of craftspeople in their studios, natural light only.
+                - generic [ref=f5e22]:
+                  - heading "Landscape — Coastal Quiet" [level=3] [ref=f5e23]
+                  - paragraph [ref=f5e24]: Long-exposure seascapes tracing the changing light along the Oregon coast over twelve months.
+                - generic [ref=f5e25]:
+                  - heading "Commercial — Spruce Coffee Roasters" [level=3] [ref=f5e26]
+                  - paragraph [ref=f5e27]: Brand campaign capturing the texture and ritual of small-batch coffee production.
+                - generic [ref=f5e28]:
+                  - heading "Wedding — Mira & James" [level=3] [ref=f5e29]
+                  - paragraph [ref=f5e30]: Documentary-style coverage of a late-summer ceremony in the Columbia River Gorge.
+                - generic [ref=f5e31]:
+                  - heading "Travel — Kyoto in Autumn" [level=3] [ref=f5e32]
+                  - paragraph [ref=f5e33]: Personal project exploring the interplay of temple architecture and seasonal foliage.
+            - contentinfo [ref=f5e34]: © Alex Rivera Photography — All rights reserved.

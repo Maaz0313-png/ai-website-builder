@@ -1,0 +1,52 @@
+- generic [ref=f216e3]:
+  - generic [ref=f216e7]:
+    - list [ref=f216e9]:
+      - listitem [ref=f216e10]:
+        - link "Laravel Starter Kit" [ref=f216e11] [cursor=pointer]:
+          - /url: /dashboard
+    - generic [ref=f216e18]:
+      - generic [ref=f216e19]: Platform
+      - list [ref=f216e20]:
+        - listitem [ref=f216e21]:
+          - link "Dashboard" [ref=f216e22] [cursor=pointer]:
+            - /url: /dashboard
+        - listitem [ref=f216e29]:
+          - link "Projects" [ref=f216e30] [cursor=pointer]:
+            - /url: /projects
+        - listitem [ref=f216e35]:
+          - link "Billing" [ref=f216e36] [cursor=pointer]:
+            - /url: /billing
+    - generic [ref=f216e40]:
+      - list [ref=f216e43]:
+        - listitem [ref=f216e44]:
+          - link "Repository" [ref=f216e45] [cursor=pointer]:
+            - /url: https://github.com/laravel/react-starter-kit
+        - listitem [ref=f216e49]:
+          - link "Documentation" [ref=f216e50] [cursor=pointer]:
+            - /url: https://laravel.com/docs/starter-kits
+      - list [ref=f216e54]:
+        - listitem [ref=f216e55]:
+          - button "TU Test User" [ref=f216e56]:
+            - generic [ref=f216e57]: TU
+            - generic [ref=f216e59]: Test User
+  - main [ref=f216e64]:
+    - generic [ref=f216e66]:
+      - button "Toggle Sidebar" [ref=f216e67]
+      - navigation "breadcrumb" [ref=f216e69]:
+        - list [ref=f216e70]:
+          - listitem [ref=f216e71]:
+            - link "Projects" [ref=f216e72] [cursor=pointer]:
+              - /url: /projects
+          - listitem [ref=f216e73]
+          - listitem [ref=f216e76]:
+            - link "Generating…" [disabled] [ref=f216e77]
+    - generic [ref=f216e78]:
+      - generic [ref=f216e79]:
+        - heading "Generating your website…" [level=1] [ref=f216e80]
+        - generic [ref=f216e81]: 4 credits
+      - paragraph [ref=f216e82]: A simple blog site about web development with clean design
+      - generic [ref=f216e83]:
+        - generic [ref=f216e84]:
+          - paragraph [ref=f216e86]: Generation in progress — 15%
+          - generic [ref=f216e87]: Processing
+        - progressbar [ref=f216e88]

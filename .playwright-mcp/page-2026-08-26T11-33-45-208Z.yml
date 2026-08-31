@@ -1,0 +1,99 @@
+- generic [ref=f27e1]:
+  - generic [ref=f27e3]:
+    - generic [ref=f27e7]:
+      - list [ref=f27e9]:
+        - listitem [ref=f27e10]:
+          - link "Laravel Starter Kit" [ref=f27e11] [cursor=pointer]:
+            - /url: /dashboard
+      - generic [ref=f27e18]:
+        - generic [ref=f27e19]: Platform
+        - list [ref=f27e20]:
+          - listitem [ref=f27e21]:
+            - link "Dashboard" [ref=f27e22] [cursor=pointer]:
+              - /url: /dashboard
+          - listitem [ref=f27e29]:
+            - link "Projects" [ref=f27e30] [cursor=pointer]:
+              - /url: /projects
+          - listitem [ref=f27e35]:
+            - link "Billing" [ref=f27e36] [cursor=pointer]:
+              - /url: /billing
+      - generic [ref=f27e40]:
+        - list [ref=f27e43]:
+          - listitem [ref=f27e44]:
+            - link "Repository" [ref=f27e45] [cursor=pointer]:
+              - /url: https://github.com/laravel/react-starter-kit
+          - listitem [ref=f27e49]:
+            - link "Documentation" [ref=f27e50] [cursor=pointer]:
+              - /url: https://laravel.com/docs/starter-kits
+        - list [ref=f27e54]:
+          - listitem [ref=f27e55]:
+            - button "TU Test User" [ref=f27e56]:
+              - generic [ref=f27e57]: TU
+              - generic [ref=f27e59]: Test User
+    - main [ref=f27e64]:
+      - generic [ref=f27e66]:
+        - button "Toggle Sidebar" [ref=f27e67]
+        - navigation "breadcrumb" [ref=f27e69]:
+          - list [ref=f27e70]:
+            - listitem [ref=f27e71]:
+              - link "Projects" [disabled] [ref=f27e72]
+      - generic [ref=f27e73]:
+        - generic [ref=f27e74]:
+          - heading "Your Websites" [level=1] [ref=f27e75]
+          - generic [ref=f27e76]: 5 credits
+        - generic [ref=f27e79]:
+          - textbox "Describe the website you want… e.g. “A landing page for a cozy neighborhood coffee shop with a menu and testimonials”" [active] [ref=f27e80]: A simple blog site about web development with clean design
+          - generic [ref=f27e81]:
+            - generic [ref=f27e82]: Model
+            - combobox [ref=f27e83]:
+              - generic:
+                - text: "NVIDIA: Nemotron 3.5 Lightning (free)"
+                - generic: (1000k context)
+            - combobox [ref=f27e86]
+          - button "Generate Website" [ref=f27e87]
+        - generic [ref=f27e88]:
+          - generic [ref=f27e90]:
+            - link [ref=f27e91] [cursor=pointer]:
+              - /url: /projects/7
+              - paragraph [ref=f27e92]: Devon Ashworth
+              - paragraph [ref=f27e93]: Create a stunning portfolio website for RILT (React, Inertia, Laravel, TailwindCSS) stack developer
+            - generic [ref=f27e94]:
+              - generic [ref=f27e95]: generated
+              - button "Delete project" [ref=f27e96]
+          - generic [ref=f27e98]:
+            - link [ref=f27e99] [cursor=pointer]:
+              - /url: /projects/6
+              - paragraph [ref=f27e100]: Nexus Labs
+              - paragraph [ref=f27e101]: A landing page for a new tech startup called Nexus Labs, showcasing AI products and team
+            - generic [ref=f27e102]:
+              - generic [ref=f27e103]: generated
+              - button "Delete project" [ref=f27e104]
+          - generic [ref=f27e106]:
+            - link [ref=f27e107] [cursor=pointer]:
+              - /url: /projects/2
+              - paragraph [ref=f27e108]: Alex Rivera Photography
+              - paragraph [ref=f27e109]: A modern portfolio site for a freelance photographer named Alex Rivera, with a hero gallery, services section, and contact form
+            - generic [ref=f27e110]:
+              - generic [ref=f27e111]: generated
+              - button "Delete project" [ref=f27e112]
+          - generic [ref=f27e114]:
+            - link [ref=f27e115] [cursor=pointer]:
+              - /url: /projects/1
+              - paragraph [ref=f27e116]: Brew Haven
+              - paragraph [ref=f27e117]: A landing page for Brew Haven, a cozy neighborhood coffee shop with menu and testimonials
+            - generic [ref=f27e118]:
+              - generic [ref=f27e119]: generated
+              - button "Delete project" [ref=f27e120]
+  - generic [ref=f27e211]:
+    - generic [ref=f27e212]: "[plugin:vite:import-analysis] Failed to resolve import \"@/components/ui/progress\" from \"resources/js/pages/projects/show.tsx\". Does the file exist?"
+    - generic [ref=f27e213]: C:/laragon/www/ai-website-builder/resources/js/pages/projects/show.tsx:6:25
+    - generic [ref=f27e214]: "20 | import { Badge } from \"@/components/ui/badge\"; 21 | import { Button } from \"@/components/ui/button\"; 22 | import { Progress } from \"@/components/ui/progress\"; | ^ 23 | import { useEffect, useState } from \"react\"; 24 | import { edit as projectEditor } from \"@/actions/App/Http/Controllers/SiteEditorController\";"
+    - generic [ref=f27e215]: at TransformPluginContext._formatLog (file:///C:/laragon/www/ai-website-builder/node_modules/vite/dist/node/chunks/dep-Cg8OuIew.js:48670:41) at TransformPluginContext.error (file:///C:/laragon/www/ai-website-builder/node_modules/vite/dist/node/chunks/dep-Cg8OuIew.js:48667:16) at normalizeUrl (file:///C:/laragon/www/ai-website-builder/node_modules/vite/dist/node/chunks/dep-Cg8OuIew.js:46810:23) at process.processTicksAndRejections (node:internal/process/task_queues:104:5) at async file:///C:/laragon/www/ai-website-builder/node_modules/vite/dist/node/chunks/dep-Cg8OuIew.js:46929:37 at async Promise.all (index 7) at async TransformPluginContext.transform (file:///C:/laragon/www/ai-website-builder/node_modules/vite/dist/node/chunks/dep-Cg8OuIew.js:46856:7) at async EnvironmentPluginContainer.transform (file:///C:/laragon/www/ai-website-builder/node_modules/vite/dist/node/chunks/dep-Cg8OuIew.js:48465:18) at async loadAndTransform (file:///C:/laragon/www/ai-website-builder/node_modules/vite/dist/node/chunks/dep-Cg8OuIew.js:42166:27) at async viteTransformMiddleware (file:///C:/laragon/www/ai-website-builder/node_modules/vite/dist/node/chunks/dep-Cg8OuIew.js:43629:24
+    - generic [ref=f27e216]:
+      - text: Click outside, press Esc key, or fix the code to dismiss.You can also disable this overlay by setting
+      - code [ref=f27e217]: server.hmr.overlay
+      - text: to
+      - code [ref=f27e218]: "false"
+      - text: in
+      - code [ref=f27e219]: vite.config.js
+      - text: .

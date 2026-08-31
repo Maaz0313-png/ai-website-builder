@@ -1,0 +1,53 @@
+[    1292ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[    3176ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[  255134ms] [ERROR] WebSocket connection to 'ws://[::1]:5174/?token=71Xn6Njib1mh' failed: Page entered Back-Forward Cache. @ http://127.0.0.1:8000/projects/8:0
+[  255134ms] [ERROR] WebSocket connection to 'ws://localhost:8080/app/in13pajbbshqrvadbia5?protocol=7&client=js&version=8.6.0&flash=false' failed: Page entered Back-Forward Cache. @ http://127.0.0.1:8000/projects/8:0
+[  686793ms] [LOG] [vite] server connection lost. Polling for restart... @ http://[::1]:5174/@vite/client:916
+[  688468ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[  689303ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 1204456ms] [ERROR] WebSocket connection to 'ws://[::1]:5174/?token=71Xn6Njib1mh' failed: Page entered Back-Forward Cache. @ http://127.0.0.1:8000/projects/8:0
+[ 1204456ms] [ERROR] WebSocket connection to 'ws://localhost:8080/app/in13pajbbshqrvadbia5?protocol=7&client=js&version=8.6.0&flash=false' failed: Page entered Back-Forward Cache. @ http://127.0.0.1:8000/projects/8:0
+[ 1289967ms] [LOG] [vite] server connection lost. Polling for restart... @ http://[::1]:5174/@vite/client:916
+[ 1291339ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 1292053ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 1604482ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 1605160ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 1928664ms] [ERROR] WebSocket connection to 'ws://[::1]:5174/?token=71Xn6Njib1mh' failed: Page entered Back-Forward Cache. @ http://127.0.0.1:8000/projects/8:0
+[ 1928982ms] [ERROR] WebSocket connection to 'ws://localhost:8080/app/in13pajbbshqrvadbia5?protocol=7&client=js&version=8.6.0&flash=false' failed: Page entered Back-Forward Cache. @ http://127.0.0.1:8000/projects/8:0
+[ 2149122ms] [LOG] [vite] server connection lost. Polling for restart... @ http://[::1]:5174/@vite/client:916
+[ 2150832ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2151594ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2467192ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2467895ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2563608ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2564535ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2566055ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2566855ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2568016ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2568708ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2570042ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2570819ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2572188ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2572811ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2574161ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2574838ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2576046ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2576835ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2578171ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2578859ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2580072ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2580802ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2582043ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2582744ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2583182ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2584122ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2587930ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2589194ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2591624ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2596511ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/broadcasting/auth:0
+[ 2604597ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2609452ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2613432ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2617447ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2623388ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[ 2627735ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5174/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803

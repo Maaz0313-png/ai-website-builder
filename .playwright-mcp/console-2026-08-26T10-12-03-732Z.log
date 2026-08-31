@@ -1,0 +1,5 @@
+[  -73378ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:17803
+[  -38404ms] [ERROR] WebSocket connection to 'ws://[::1]:5173/?token=_CiBoCg5h8c0' failed: Page entered Back-Forward Cache. @ http://127.0.0.1:8000/billing:0
+[  -38404ms] [ERROR] WebSocket connection to 'ws://localhost:8080/app/in13pajbbshqrvadbia5?protocol=7&client=js&version=8.6.0&flash=false' failed: Page entered Back-Forward Cache. @ http://127.0.0.1:8000/billing:0
+[     293ms] [ERROR] WebSocket connection to 'ws://localhost:8080/app/in13pajbbshqrvadbia5?protocol=7&client=js&version=8.6.0&flash=false' failed: Page entered Back-Forward Cache. @ http://127.0.0.1:8000/projects:0
+[  497157ms] [ERROR] WebSocket connection to 'ws://localhost:8080/app/in13pajbbshqrvadbia5?protocol=7&client=js&version=8.6.0&flash=false' failed: Page entered Back-Forward Cache. @ http://127.0.0.1:8000/projects:0

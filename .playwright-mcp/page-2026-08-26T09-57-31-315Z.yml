@@ -1,0 +1,38 @@
+- generic [ref=f3e31]:
+  - generic [ref=f3e35]:
+    - list [ref=f3e37]:
+      - listitem [ref=f3e38]:
+        - link "Laravel Starter Kit" [ref=f3e39] [cursor=pointer]:
+          - /url: /dashboard
+    - generic [ref=f3e46]:
+      - generic [ref=f3e47]: Platform
+      - list [ref=f3e48]:
+        - listitem [ref=f3e49]:
+          - link "Dashboard" [ref=f3e50] [cursor=pointer]:
+            - /url: /dashboard
+        - listitem [ref=f3e57]:
+          - link "Projects" [ref=f3e58] [cursor=pointer]:
+            - /url: /projects
+        - listitem [ref=f3e63]:
+          - link "Billing" [ref=f3e64] [cursor=pointer]:
+            - /url: /billing
+    - generic [ref=f3e68]:
+      - list [ref=f3e71]:
+        - listitem [ref=f3e72]:
+          - link "Repository" [ref=f3e73] [cursor=pointer]:
+            - /url: https://github.com/laravel/react-starter-kit
+        - listitem [ref=f3e77]:
+          - link "Documentation" [ref=f3e78] [cursor=pointer]:
+            - /url: https://laravel.com/docs/starter-kits
+      - list [ref=f3e82]:
+        - listitem [ref=f3e83]:
+          - button "TU Test User" [ref=f3e84]:
+            - generic [ref=f3e85]: TU
+            - generic [ref=f3e87]: Test User
+  - main [ref=f3e92]:
+    - generic [ref=f3e94]:
+      - button "Toggle Sidebar" [ref=f3e95]
+      - navigation "breadcrumb" [ref=f3e97]:
+        - list [ref=f3e98]:
+          - listitem [ref=f3e99]:
+            - link "Dashboard" [disabled] [ref=f3e100]

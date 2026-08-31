@@ -1,0 +1,102 @@
+- generic [ref=f8e3]:
+  - generic [ref=f8e7]:
+    - list [ref=f8e9]:
+      - listitem [ref=f8e10]:
+        - link "Laravel Starter Kit" [ref=f8e11] [cursor=pointer]:
+          - /url: /dashboard
+    - generic [ref=f8e18]:
+      - generic [ref=f8e19]: Platform
+      - list [ref=f8e20]:
+        - listitem [ref=f8e21]:
+          - link "Dashboard" [ref=f8e22] [cursor=pointer]:
+            - /url: /dashboard
+        - listitem [ref=f8e29]:
+          - link "Projects" [ref=f8e30] [cursor=pointer]:
+            - /url: /projects
+        - listitem [ref=f8e35]:
+          - link "Billing" [ref=f8e36] [cursor=pointer]:
+            - /url: /billing
+    - generic [ref=f8e40]:
+      - list [ref=f8e43]:
+        - listitem [ref=f8e44]:
+          - link "Repository" [ref=f8e45] [cursor=pointer]:
+            - /url: https://github.com/laravel/react-starter-kit
+        - listitem [ref=f8e49]:
+          - link "Documentation" [ref=f8e50] [cursor=pointer]:
+            - /url: https://laravel.com/docs/starter-kits
+      - list [ref=f8e54]:
+        - listitem [ref=f8e55]:
+          - button "TU Test User" [ref=f8e56]:
+            - generic [ref=f8e57]: TU
+            - generic [ref=f8e59]: Test User
+  - main [ref=f8e64]:
+    - generic [ref=f8e66]:
+      - button "Toggle Sidebar" [ref=f8e67]
+      - navigation "breadcrumb" [ref=f8e69]:
+        - list [ref=f8e70]:
+          - listitem [ref=f8e71]:
+            - link "Billing" [disabled] [ref=f8e72]
+    - generic [ref=f8e73]:
+      - generic [ref=f8e74]:
+        - generic [ref=f8e75]:
+          - heading "Billing & Credits" [level=1] [ref=f8e76]
+          - paragraph [ref=f8e77]: Manage your plan and credit balance.
+        - generic [ref=f8e78]:
+          - text: "Credits:"
+          - generic [ref=f8e79]: "9"
+      - generic [ref=f8e80]:
+        - generic [ref=f8e81]:
+          - generic [ref=f8e82]:
+            - generic [ref=f8e83]:
+              - generic [ref=f8e84]: Free
+              - generic [ref=f8e85]: Current
+            - generic [ref=f8e86]: Get started with a handful of generations each month.
+          - generic [ref=f8e87]:
+            - generic [ref=f8e88]: $0/mo
+            - list [ref=f8e89]:
+              - listitem [ref=f8e90]:
+                - generic [ref=f8e91]: ✓
+                - text: 10 AI generations / month
+              - listitem [ref=f8e92]:
+                - generic [ref=f8e93]: ✓
+                - text: Live preview
+              - listitem [ref=f8e94]:
+                - generic [ref=f8e95]: ✓
+                - text: Visual & code editor
+          - generic [ref=f8e96]:
+            - button "Current plan" [disabled]
+        - generic [ref=f8e97]:
+          - generic [ref=f8e98]:
+            - generic [ref=f8e99]: Pro
+            - generic [ref=f8e101]: For builders shipping sites regularly.
+          - generic [ref=f8e102]:
+            - generic [ref=f8e103]: $19/mo
+            - list [ref=f8e104]:
+              - listitem [ref=f8e105]:
+                - generic [ref=f8e106]: ✓
+                - text: 100 AI generations / month
+              - listitem [ref=f8e107]:
+                - generic [ref=f8e108]: ✓
+                - text: Priority generation queue
+              - listitem [ref=f8e109]:
+                - generic [ref=f8e110]: ✓
+                - text: Unlimited projects
+          - button "Subscribe — $19/mo" [ref=f8e112]
+        - generic [ref=f8e113]:
+          - generic [ref=f8e114]:
+            - generic [ref=f8e115]: Agency
+            - generic [ref=f8e117]: High volume for teams and agencies.
+          - generic [ref=f8e118]:
+            - generic [ref=f8e119]: $49/mo
+            - list [ref=f8e120]:
+              - listitem [ref=f8e121]:
+                - generic [ref=f8e122]: ✓
+                - text: 500 AI generations / month
+              - listitem [ref=f8e123]:
+                - generic [ref=f8e124]: ✓
+                - text: Highest priority queue
+              - listitem [ref=f8e125]:
+                - generic [ref=f8e126]: ✓
+                - text: Unlimited projects
+          - button "Subscribe — $49/mo" [ref=f8e128]
+      - paragraph [ref=f8e129]: Stripe is not configured in this environment; paid subscriptions are disabled.

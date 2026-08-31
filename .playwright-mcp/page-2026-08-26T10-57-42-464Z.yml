@@ -1,0 +1,48 @@
+- generic [ref=f4e3]:
+  - generic [ref=f4e7]:
+    - list [ref=f4e9]:
+      - listitem [ref=f4e10]:
+        - link "Laravel Starter Kit" [ref=f4e11] [cursor=pointer]:
+          - /url: /dashboard
+    - generic [ref=f4e18]:
+      - generic [ref=f4e19]: Platform
+      - list [ref=f4e20]:
+        - listitem [ref=f4e21]:
+          - link "Dashboard" [ref=f4e22] [cursor=pointer]:
+            - /url: /dashboard
+        - listitem [ref=f4e29]:
+          - link "Projects" [ref=f4e30] [cursor=pointer]:
+            - /url: /projects
+        - listitem [ref=f4e35]:
+          - link "Billing" [ref=f4e36] [cursor=pointer]:
+            - /url: /billing
+    - generic [ref=f4e40]:
+      - list [ref=f4e43]:
+        - listitem [ref=f4e44]:
+          - link "Repository" [ref=f4e45] [cursor=pointer]:
+            - /url: https://github.com/laravel/react-starter-kit
+        - listitem [ref=f4e49]:
+          - link "Documentation" [ref=f4e50] [cursor=pointer]:
+            - /url: https://laravel.com/docs/starter-kits
+      - list [ref=f4e54]:
+        - listitem [ref=f4e55]:
+          - button "TU Test User" [ref=f4e56]:
+            - generic [ref=f4e57]: TU
+            - generic [ref=f4e59]: Test User
+  - main [ref=f4e64]:
+    - generic [ref=f4e66]:
+      - button "Toggle Sidebar" [ref=f4e67]
+      - navigation "breadcrumb" [ref=f4e69]:
+        - list [ref=f4e70]:
+          - listitem [ref=f4e71]:
+            - link "Projects" [ref=f4e72] [cursor=pointer]:
+              - /url: /projects
+          - listitem [ref=f4e73]
+          - listitem [ref=f4e76]:
+            - link "Nexus Labs" [disabled] [ref=f4e77]
+    - generic [ref=f4e78]:
+      - generic [ref=f4e79]:
+        - heading "Nexus Labs" [level=1] [ref=f4e80]
+        - generic [ref=f4e81]: 6 credits
+      - paragraph [ref=f4e82]: A landing page for a new tech startup called Nexus Labs, showcasing AI products and team
+      - button "Open editor & preview" [ref=f4e84]

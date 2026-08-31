@@ -1,0 +1,83 @@
+- generic [ref=f16e3]:
+  - generic [ref=f16e7]:
+    - list [ref=f16e9]:
+      - listitem [ref=f16e10]:
+        - link "Laravel Starter Kit" [ref=f16e11] [cursor=pointer]:
+          - /url: /dashboard
+    - generic [ref=f16e18]:
+      - generic [ref=f16e19]: Platform
+      - list [ref=f16e20]:
+        - listitem [ref=f16e21]:
+          - link "Dashboard" [ref=f16e22] [cursor=pointer]:
+            - /url: /dashboard
+        - listitem [ref=f16e29]:
+          - link "Projects" [ref=f16e30] [cursor=pointer]:
+            - /url: /projects
+        - listitem [ref=f16e35]:
+          - link "Billing" [ref=f16e36] [cursor=pointer]:
+            - /url: /billing
+    - generic [ref=f16e40]:
+      - list [ref=f16e43]:
+        - listitem [ref=f16e44]:
+          - link "Repository" [ref=f16e45] [cursor=pointer]:
+            - /url: https://github.com/laravel/react-starter-kit
+        - listitem [ref=f16e49]:
+          - link "Documentation" [ref=f16e50] [cursor=pointer]:
+            - /url: https://laravel.com/docs/starter-kits
+      - list [ref=f16e54]:
+        - listitem [ref=f16e55]:
+          - button "TU Test User" [ref=f16e56]:
+            - generic [ref=f16e57]: TU
+            - generic [ref=f16e59]: Test User
+  - main [ref=f16e64]:
+    - generic [ref=f16e66]:
+      - button "Toggle Sidebar" [ref=f16e67]
+      - navigation "breadcrumb" [ref=f16e69]:
+        - list [ref=f16e70]:
+          - listitem [ref=f16e71]:
+            - link "Projects" [disabled] [ref=f16e72]
+    - generic [ref=f16e73]:
+      - generic [ref=f16e74]:
+        - heading "Your Websites" [level=1] [ref=f16e75]
+        - generic [ref=f16e76]: 5 credits
+      - generic [ref=f16e79]:
+        - textbox "Describe the website you want… e.g. “A landing page for a cozy neighborhood coffee shop with a menu and testimonials”" [ref=f16e80]
+        - generic [ref=f16e81]:
+          - generic [ref=f16e82]: Model
+          - combobox [ref=f16e83]:
+            - generic: "Select a model (default: GLM 5.2)"
+          - combobox [ref=f16e86]
+        - button "Generate Website" [ref=f16e87]
+      - generic [ref=f16e88]:
+        - generic [ref=f16e90]:
+          - link [ref=f16e91] [cursor=pointer]:
+            - /url: /projects/7
+            - paragraph [ref=f16e92]: Devon Ashworth
+            - paragraph [ref=f16e93]: Create a stunning portfolio website for RILT (React, Inertia, Laravel, TailwindCSS) stack developer
+          - generic [ref=f16e94]:
+            - generic [ref=f16e95]: generated
+            - button "Delete project" [ref=f16e96]
+        - generic [ref=f16e98]:
+          - link [ref=f16e99] [cursor=pointer]:
+            - /url: /projects/6
+            - paragraph [ref=f16e100]: Nexus Labs
+            - paragraph [ref=f16e101]: A landing page for a new tech startup called Nexus Labs, showcasing AI products and team
+          - generic [ref=f16e102]:
+            - generic [ref=f16e103]: generated
+            - button "Delete project" [ref=f16e104]
+        - generic [ref=f16e106]:
+          - link [ref=f16e107] [cursor=pointer]:
+            - /url: /projects/2
+            - paragraph [ref=f16e108]: Alex Rivera Photography
+            - paragraph [ref=f16e109]: A modern portfolio site for a freelance photographer named Alex Rivera, with a hero gallery, services section, and contact form
+          - generic [ref=f16e110]:
+            - generic [ref=f16e111]: generated
+            - button "Delete project" [ref=f16e112]
+        - generic [ref=f16e114]:
+          - link [ref=f16e115] [cursor=pointer]:
+            - /url: /projects/1
+            - paragraph [ref=f16e116]: Brew Haven
+            - paragraph [ref=f16e117]: A landing page for Brew Haven, a cozy neighborhood coffee shop with menu and testimonials
+          - generic [ref=f16e118]:
+            - generic [ref=f16e119]: generated
+            - button "Delete project" [ref=f16e120]

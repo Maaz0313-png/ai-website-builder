@@ -1,0 +1,42 @@
+- generic [ref=f18e1]:
+  - navigation [ref=f18e2]:
+    - link "RILT Stack Dev Portfolio" [ref=f18e3] [cursor=pointer]:
+      - /url: "#"
+    - link "Home" [ref=f18e4] [cursor=pointer]:
+      - /url: /preview/RILT+Stack+Dev+Portfolio/home.html
+    - link "Projects" [ref=f18e5] [cursor=pointer]:
+      - /url: /preview/RILT+Stack+Dev+Portfolio/projects.html
+    - link "About" [ref=f18e6] [cursor=pointer]:
+      - /url: /preview/RILT+Stack+Dev+Portfolio/about.html
+    - link "Writing" [ref=f18e7] [cursor=pointer]:
+      - /url: /preview/RILT+Stack+Dev+Portfolio/writing.html
+    - link "Contact" [ref=f18e8] [cursor=pointer]:
+      - /url: /preview/RILT+Stack+Dev+Portfolio/contact.html
+  - generic [ref=f18e9]:
+    - heading "Full-Stack Craftsmanship with RILT" [level=1] [ref=f18e10]
+    - paragraph [ref=f18e11]: I'm a developer building fast, maintainable web applications with Ruby on Rails APIs, React frontends, Linux infrastructure, and end-to-end TypeScript. I care about clean architecture, sharp performance, and tools that stay out of your way.
+    - link "Get Started" [ref=f18e12] [cursor=pointer]:
+      - /url: "#get-started"
+  - generic [ref=f18e13]:
+    - heading "What RILT Means to Me" [level=2] [ref=f18e14]
+    - paragraph [ref=f18e15]: "RILT is the stack I've spent the last five years sharpening: Ruby on Rails for rapid backend development, React for interactive UIs, Linux for the deployment and operations layer, and TypeScript for type safety across the whole system. It's pragmatic, battle-tested, and lets me ship reliable software without ceremony."
+  - generic [ref=f18e16]:
+    - heading "Where I Add Value" [level=2] [ref=f18e17]
+    - paragraph
+    - generic [ref=f18e18]:
+      - generic [ref=f18e19]:
+        - heading "Rails API Design" [level=3] [ref=f18e20]
+        - paragraph [ref=f18e21]: Designing RESTful and GraphQL APIs with Active Record, proper serialization, and background job pipelines that scale gracefully under load.
+      - generic [ref=f18e22]:
+        - heading "React Frontend Engineering" [level=3] [ref=f18e23]
+        - paragraph [ref=f18e24]: Component-driven interfaces with hooks, server state management, accessibility, and thoughtful state machines for complex flows.
+      - generic [ref=f18e25]:
+        - heading "Linux & DevOps" [level=3] [ref=f18e26]
+        - paragraph [ref=f18e27]: Provisioning servers with Ansible, hardening NGINX, tuning PostgreSQL, and keeping production calm with Prometheus, Grafana, and good runbooks.
+      - generic [ref=f18e28]:
+        - heading "End-to-End TypeScript" [level=3] [ref=f18e29]
+        - paragraph [ref=f18e30]: Sharing types between Rails and React using Sorbet and generated declarations, catching bugs before they leave the editor.
+  - generic [ref=f18e31]:
+    - heading "Let's Build Something Reliable" [level=2] [ref=f18e32]
+    - paragraph [ref=f18e33]: I'm currently open to contract and full-time roles involving Ruby, React, or modern TypeScript backends. If you need a senior engineer who can own a system from database to deploy button, let's talk.
+  - contentinfo [ref=f18e34]: © RILT Stack Dev Portfolio — All rights reserved.

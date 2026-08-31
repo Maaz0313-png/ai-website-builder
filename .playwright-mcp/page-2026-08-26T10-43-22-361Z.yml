@@ -1,0 +1,70 @@
+- generic [ref=f62e3]:
+  - generic [ref=f62e7]:
+    - list [ref=f62e9]:
+      - listitem [ref=f62e10]:
+        - link "Laravel Starter Kit" [ref=f62e11] [cursor=pointer]:
+          - /url: /dashboard
+    - generic [ref=f62e18]:
+      - generic [ref=f62e19]: Platform
+      - list [ref=f62e20]:
+        - listitem [ref=f62e21]:
+          - link "Dashboard" [ref=f62e22] [cursor=pointer]:
+            - /url: /dashboard
+        - listitem [ref=f62e29]:
+          - link "Projects" [ref=f62e30] [cursor=pointer]:
+            - /url: /projects
+        - listitem [ref=f62e35]:
+          - link "Billing" [ref=f62e36] [cursor=pointer]:
+            - /url: /billing
+    - generic [ref=f62e40]:
+      - list [ref=f62e43]:
+        - listitem [ref=f62e44]:
+          - link "Repository" [ref=f62e45] [cursor=pointer]:
+            - /url: https://github.com/laravel/react-starter-kit
+        - listitem [ref=f62e49]:
+          - link "Documentation" [ref=f62e50] [cursor=pointer]:
+            - /url: https://laravel.com/docs/starter-kits
+      - list [ref=f62e54]:
+        - listitem [ref=f62e55]:
+          - button "TU Test User" [ref=f62e56]:
+            - generic [ref=f62e57]: TU
+            - generic [ref=f62e59]: Test User
+  - main [ref=f62e64]:
+    - generic [ref=f62e66]:
+      - button "Toggle Sidebar" [ref=f62e67]
+      - navigation "breadcrumb" [ref=f62e69]:
+        - list [ref=f62e70]:
+          - listitem [ref=f62e71]:
+            - link "Projects" [disabled] [ref=f62e72]
+    - generic [ref=f62e73]:
+      - generic [ref=f62e74]:
+        - heading "Your Websites" [level=1] [ref=f62e75]
+        - generic [ref=f62e76]: 9 credits
+      - generic [ref=f62e79]:
+        - textbox "Describe the website you want… e.g. “A landing page for a cozy neighborhood coffee shop with a menu and testimonials”" [ref=f62e80]
+        - button "Generate Website" [ref=f62e81]
+      - generic [ref=f62e82]:
+        - generic [ref=f62e84]:
+          - link [ref=f62e85] [cursor=pointer]:
+            - /url: /projects/3
+            - paragraph [ref=f62e86]: RILT Stack Dev Portfolio
+            - paragraph [ref=f62e87]: A portfolio website for a RILT stack developer
+          - generic [ref=f62e88]:
+            - generic [ref=f62e89]: generated
+            - button "Delete project" [ref=f62e90]
+        - generic [ref=f62e92]:
+          - link [ref=f62e93] [cursor=pointer]:
+            - /url: /projects/2
+            - paragraph [ref=f62e94]: Alex Rivera Photography
+            - paragraph [ref=f62e95]: A modern portfolio site for a freelance photographer named Alex Rivera, with a hero gallery, services section, and contact form
+          - generic [ref=f62e96]:
+            - generic [ref=f62e97]: generated
+            - button "Delete project" [ref=f62e98]
+        - generic [ref=f62e100]:
+          - link [ref=f62e101] [cursor=pointer]:
+            - /url: /projects/1
+            - paragraph [ref=f62e102]: Brew Haven
+            - paragraph [ref=f62e103]: A landing page for Brew Haven, a cozy neighborhood coffee shop with menu and testimonials
+          - generic [ref=f62e104]:
+            - generic [ref=f62e105]: generated
+            - button "Delete project" [ref=f62e106]

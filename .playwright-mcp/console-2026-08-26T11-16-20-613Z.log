@@ -1,0 +1,49 @@
+[    1699ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:17803
+[    7943ms] [ERROR] Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem. @ http://[::1]:5173/node_modules/.vite/deps/chunk-YJYY6GXC.js?v=2fab139d:578
+[    7972ms] [ERROR] Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem. @ http://[::1]:5173/node_modules/.vite/deps/chunk-YJYY6GXC.js?v=2fab139d:578
+[   11938ms] TypeError: Cannot read properties of null (reading 'useMemo')
+    at exports.useMemo (http://[::1]:5173/node_modules/.vite/deps/chunk-YJYY6GXC.js?v=2fab139d:1082:35)
+    at useScope (http://[::1]:5173/node_modules/.vite/deps/chunk-5QB6WZBA.js?v=2fab139d:60:20)
+    at Select (http://[::1]:5173/node_modules/.vite/deps/@radix-ui_react-select.js?v=8b147ad9:100:23)
+    at react-stack-bottom-frame (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:16192:20)
+    at renderWithHooks (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:4306:24)
+    at updateFunctionComponent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:5972:21)
+    at beginWork (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:7048:20)
+    at runWithFiberInDEV (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:726:18)
+    at performUnitOfWork (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:10831:98)
+    at workLoopSync (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:10692:43)
+[    7979ms] [WARNING] %s
+
+%s
+ An error occurred in the <Select> component. Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries. @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:5588
+[    9584ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[   12557ms] TypeError: fetchModels(...).then is not a function
+    at http://[::1]:5173/resources/js/pages/projects/index.tsx?t=1787742871053:39:19
+    at react-stack-bottom-frame (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:16242:20)
+    at runWithFiberInDEV (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:726:18)
+    at commitHookEffectListMount (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:7767:122)
+    at commitHookPassiveMountEffects (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:7825:60)
+    at commitPassiveMountOnFiber (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:9182:29)
+    at recursivelyTraversePassiveMountEffects (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:9163:13)
+    at commitPassiveMountOnFiber (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:9265:13)
+    at recursivelyTraversePassiveMountEffects (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:9163:13)
+    at commitPassiveMountOnFiber (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:9265:13)
+[   10965ms] [WARNING] %s
+
+%s
+ An error occurred in the <Projects> component. Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries. @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:5588
+[  156628ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/projects/models:0
+[  159252ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[  165713ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/projects/models:0
+[  168639ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=2fab139d:17803
+[  169552ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8000/projects/models:0

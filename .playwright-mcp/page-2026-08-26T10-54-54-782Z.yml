@@ -1,0 +1,48 @@
+- generic [ref=f1e3]:
+  - generic [ref=f1e7]:
+    - list [ref=f1e9]:
+      - listitem [ref=f1e10]:
+        - link "Laravel Starter Kit" [ref=f1e11] [cursor=pointer]:
+          - /url: /dashboard
+    - generic [ref=f1e18]:
+      - generic [ref=f1e19]: Platform
+      - list [ref=f1e20]:
+        - listitem [ref=f1e21]:
+          - link "Dashboard" [ref=f1e22] [cursor=pointer]:
+            - /url: /dashboard
+        - listitem [ref=f1e29]:
+          - link "Projects" [ref=f1e30] [cursor=pointer]:
+            - /url: /projects
+        - listitem [ref=f1e35]:
+          - link "Billing" [ref=f1e36] [cursor=pointer]:
+            - /url: /billing
+    - generic [ref=f1e40]:
+      - list [ref=f1e43]:
+        - listitem [ref=f1e44]:
+          - link "Repository" [ref=f1e45] [cursor=pointer]:
+            - /url: https://github.com/laravel/react-starter-kit
+        - listitem [ref=f1e49]:
+          - link "Documentation" [ref=f1e50] [cursor=pointer]:
+            - /url: https://laravel.com/docs/starter-kits
+      - list [ref=f1e54]:
+        - listitem [ref=f1e55]:
+          - button "TU Test User" [ref=f1e56]:
+            - generic [ref=f1e57]: TU
+            - generic [ref=f1e59]: Test User
+  - main [ref=f1e64]:
+    - generic [ref=f1e66]:
+      - button "Toggle Sidebar" [ref=f1e67]
+      - navigation "breadcrumb" [ref=f1e69]:
+        - list [ref=f1e70]:
+          - listitem [ref=f1e71]:
+            - link "Projects" [ref=f1e72] [cursor=pointer]:
+              - /url: /projects
+          - listitem [ref=f1e73]
+          - listitem [ref=f1e76]:
+            - link "Alex Rivera Photography" [disabled] [ref=f1e77]
+    - generic [ref=f1e78]:
+      - generic [ref=f1e79]:
+        - heading "Alex Rivera Photography" [level=1] [ref=f1e80]
+        - generic [ref=f1e81]: 7 credits
+      - paragraph [ref=f1e82]: A modern portfolio site for a freelance photographer named Alex Rivera, with a hero gallery, services section, and contact form
+      - button "Open editor & preview" [ref=f1e84]

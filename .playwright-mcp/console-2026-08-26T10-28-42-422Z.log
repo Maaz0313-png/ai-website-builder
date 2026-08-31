@@ -1,0 +1,12 @@
+[    1223ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:17803
+[   31670ms] TypeError: Cannot read properties of undefined (reading 'toString')
+    at preview.url (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:119:73)
+    at preview (http://[::1]:5173/resources/js/actions/App/Http/Controllers/SiteEditorController.ts:97:16)
+    at onClick (http://[::1]:5173/resources/js/pages/projects/editor.tsx?t=1787739498112:88:105)
+    at processDispatchQueue (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11577:19)
+    at http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11988:11
+    at batchedUpdates$1 (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:2539:42)
+    at dispatchEventForPluginEventSystem (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:11683:9)
+    at dispatchEvent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:14608:13)
+    at dispatchDiscreteEvent (http://[::1]:5173/node_modules/.vite/deps/react-dom_client.js?v=322c2dfb:14589:62)
+    at eval (eval at <anonymous> (eval at evaluate (:311:30)), <anonymous>:1:123)

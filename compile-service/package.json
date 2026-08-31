@@ -1,0 +1,14 @@
+{
+  "name": "ai-website-builder-compile-service",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Internal stateless compile worker: bundles generated site source into deployable output.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
